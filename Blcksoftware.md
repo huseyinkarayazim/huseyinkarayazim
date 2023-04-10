@@ -1,7 +1,7 @@
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Hüseyin</h1>
 <h3 align="left">An aspiring integration specialist from Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17&label=Profile%20views&color=0e75b6&style=flat" alt="BlackSoftware" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackSoftware&label=Profile%20views&color=0e75b6&style=flat" alt="BlackSoftware" /> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
 
