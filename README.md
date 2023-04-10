@@ -43,5 +43,5 @@
 
 -----
 Credits: [BlckSoftware](https://github.com/BlckSoftware)<br>
-My Web Site: [Click for Visit](https://github.com/BlckSoftware)
+My Web Site: [Click for Visit](https://huseyinkarayazim.com.tr)
 
