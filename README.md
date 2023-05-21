@@ -36,12 +36,12 @@
 
 
 <h3 align="left">Github Stats </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlckSoftware&show_icons=true&locale=en" alt="BlckSoftware" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinkarayazim&show_icons=true&locale=en" alt="huseyinkarayazim" /></p>
 
 <h3 align="left">Streak</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlckSoftware&" alt="BlckSoftware" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinkarayazim&" alt="huseyinkarayazim" /></p>
 
 -----
-Credits: [BlckSoftware](https://github.com/BlckSoftware)<br>
+Credits: [huseyinkarayazim](https://github.com/huseyinkarayazim)<br>
 My Web Site: [Click for Visit](https://huseyinkarayazim.com.tr)
 
