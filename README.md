@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackSoftware&label=Profile%20views&color=0e75b6&style=flat" alt="BlackSoftware" /> </p>
 
-- 🔭 I’m currently working on **MIRTH CONNECT - HL7 & JS & MONGODB**
+- 🔭 I’m currently working on **C# -MIRTH CONNECT - HL7 & JS & MONGODB**
 
-- 🌱 I’m currently learning **C#,JS,PYTHON**
+- 🌱 I’m currently learning **PYTHON,NODE.JS,REACT-NATIVE**
 
 - 💬 Ask me about **MIRTH CONNECT  HL7**
 
